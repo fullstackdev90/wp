@@ -1,4 +1,5 @@
 <?php
+// bla bla bla
 /**
  * The main template file
  *
